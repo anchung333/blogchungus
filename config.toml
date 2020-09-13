@@ -1,5 +1,6 @@
 baseurl = "https://anchung333.github.io/"
 title = "achung.us"
+publishDir = "anchung333.github.io"
 
 theme = "hugo-coder"
 
